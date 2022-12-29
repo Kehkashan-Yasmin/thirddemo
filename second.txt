@@ -11,3 +11,5 @@ updated fro fast forward merge from UI
 updated for merge-commit
 
 working on rebase
+
+updated for rebase in smart git
