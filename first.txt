@@ -3,3 +3,5 @@ hello world
 a new change
 
 one more change
+
+updated for merge-commit using smart git
