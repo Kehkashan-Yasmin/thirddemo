@@ -5,3 +5,5 @@ new changes
 updates for fast forward
 
 updated for merge-commit from smart git
+
+updated for rebase from smart git
