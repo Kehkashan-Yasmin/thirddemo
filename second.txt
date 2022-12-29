@@ -7,3 +7,5 @@ one more change
 a change again
 
 updated fro fast forward merge from UI
+
+updated for merge-commit
